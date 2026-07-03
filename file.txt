@@ -1,0 +1,11 @@
+Movie : hukj 
+ seatbooked : 1Movie : tamasha 
+ seatbooked : 1Movie : notebook 
+ seatbooked : 1Movie : alieta 
+ seatbooked : 1Movie : avenger 
+ seatbooked : 1Movie : Tamasha 
+ seatbooked : 1Movie : alieta 
+ seatbooked : 1Movie : notebook 
+ seatbooked : 1Movie : hulk 
+ seatbooked : 1Movie : tamasha 
+ seatbooked : 1

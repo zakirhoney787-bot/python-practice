@@ -1,0 +1,5 @@
+{
+  "employees": ["harry", "nitish", "ahmed", "zakir", "ali"],
+  "spends":[200, 100, 1800, 50, 140],
+    "age": [24, 21, 23, 17, 19]
+}
